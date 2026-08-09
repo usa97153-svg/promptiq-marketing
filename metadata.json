@@ -1,0 +1,6 @@
+{
+  "name": "PromptIQ: 50 AI-промптов для маркетинга и контента",
+  "description": "Интерактивный пак из 50 профессиональных AI-промптов для маркетологов, копирайтеров, контент-мейкеров, SMM-специалистов и предпринимателей.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
